@@ -1,0 +1,16 @@
+.nav_container {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  background: #9da19f;
+  /* color: #0c644a; */
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* .nav_container :not(:first-child) {
+  margin-right: 60px;
+} */
